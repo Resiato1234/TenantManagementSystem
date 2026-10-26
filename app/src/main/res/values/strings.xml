@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">TenantManagementSystem</string>
+    <string name="app_name">Tenant Management System</string>
     <string name="tenant_details_format">Tenant: %1$s\nPhone: %2$s\nRent: KSh %3$s</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="add_tenant">Add Tenant</string>
+    <string name="view_tenants">View Tenants</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="no_tenants">No tenants yet. Add one from the Dashboard.</string>
+    <string name="tenants_count_format">Tenants\n%1$d</string>
+    <string name="total_rent_format">Total rent\nKSh %,.0f</string>
+    <string name="version_text">Version 1.0</string>
+    <string name="about_description">Designed for managing tenants efficiently.</string>
+    <string name="signed_in">Signed in</string>
+    <string name="user_example">user@example.com</string>
 </resources>
